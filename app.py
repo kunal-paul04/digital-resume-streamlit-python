@@ -16,7 +16,7 @@ PAGE_TITLE = "Digital CV | Kunal Kanti Paul"
 PAGE_ICON = ":wave:"
 NAME = "Kunal Kanti Paul"
 DESCRIPTION = """
-Assistant Manager (Software Development) at Digital India Corporation.
+Deputy Manager (Software Development) at Digital India Corporation.
 """
 EMAIL = "kunalkantipaul@gmail.com"
 SOCIAL_MEDIA = {
