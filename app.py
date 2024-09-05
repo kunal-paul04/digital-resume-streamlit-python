@@ -70,7 +70,7 @@ st.write('\n')
 st.subheader("Experience & Qulifications")
 st.write(
     """
-- ✔️ 4 Years of expereince in software development
+- ✔️ 4+ Years of expereince in software development
 - ✔️ Completed Master of Computer Application from Assam Science and Technology University, Guwahati
 - ✔️ Strong hands on experience and knowledge in Python and PHP
 - ✔️ Good understanding of statistical principles and their respective applications
@@ -84,8 +84,8 @@ st.write('\n')
 st.subheader("Skills")
 st.write(
     """
-- 🖥️ Front End & Back End Development: JavaScript, HTML, CSS, Ajax, PHP, Python
-- 📊 Programming Framework: Codeigniter, Laravel, Flask API
+- 🖥️ Front End & Back End Development: Python, JavaScript, HTML, CSS, Ajax, PHP
+- 📊 Programming Framework: Codeigniter, Laravel, Flask API, FastAPI
 - 🗄️ Database and Query Languages: MySQL, MongoDB
 - 📚 Miscellaneous: API Development, GIT, Redis, Elastic Stack (ELK), RabbitMQ, Amazon AWS S3
 """
@@ -98,7 +98,7 @@ st.subheader("Work Experience")
 st.write("---")
 
 # --- JOB 1
-st.write("🏢", "**Assistant Manager (Software Development) | Digital India Corporation**")
+st.write("🏢", "**Deputy Manager (Software Development) | Digital India Corporation**")
 st.write("Mar 2022 - Present")
 st.write(
     """
